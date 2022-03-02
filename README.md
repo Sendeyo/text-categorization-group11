@@ -1,3 +1,12 @@
+MEMBERS               
+REGISTRATION NO.                           NAME                    PARTICIPATION
+TU01-BE213-0376/2017              KEN MUTWIRI                       100%
+TU01-BE213-0240/2017              VENNAH CHELLANGAT                 100%
+TU01-BE213-0372/2017              KENNETH NGUMO                     100%
+TU01-BE213-0572/2017              JAMAL HAWA                        100%
+TU01-BE213-0381/2017              JUMA SAMUEL                       100%
+
+
 # text-categorization-group11
 Group project to categorize text(comments) using machine learning.
 
